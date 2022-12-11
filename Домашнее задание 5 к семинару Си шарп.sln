@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 34", "Задача 34\Задача 34.csproj", "{D0827F3C-9068-431B-BDE6-1AB80BBCC61F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 36", "Задача 36\Задача 36.csproj", "{8169C408-B213-4256-91CE-4E13F2D92E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 38", "Задача 38\Задача 38.csproj", "{71533083-C1D1-4816-8A0A-E107303C4A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0827F3C-9068-431B-BDE6-1AB80BBCC61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0827F3C-9068-431B-BDE6-1AB80BBCC61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0827F3C-9068-431B-BDE6-1AB80BBCC61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0827F3C-9068-431B-BDE6-1AB80BBCC61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8169C408-B213-4256-91CE-4E13F2D92E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8169C408-B213-4256-91CE-4E13F2D92E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8169C408-B213-4256-91CE-4E13F2D92E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8169C408-B213-4256-91CE-4E13F2D92E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71533083-C1D1-4816-8A0A-E107303C4A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71533083-C1D1-4816-8A0A-E107303C4A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71533083-C1D1-4816-8A0A-E107303C4A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71533083-C1D1-4816-8A0A-E107303C4A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE1DA25-216A-4F47-931E-78C88DDECC04}
+	EndGlobalSection
+EndGlobal
